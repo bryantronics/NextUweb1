@@ -1,0 +1,13 @@
+<svg width="550" height="400" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Iniciales Bryan Bravo Sánchez</title>
+  <text font-style="italic" transform="matrix(9.76314, 0, 0, 7.59144, -4473.13, -1472.84)" xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_1" y="228.753884" x="463.277821" stroke-width="0" stroke="#000" fill="#000000">BBS</text>
+ </g>
+</svg>
